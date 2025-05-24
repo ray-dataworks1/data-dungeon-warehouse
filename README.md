@@ -19,7 +19,8 @@ A full-scale simulated analytics warehouse built from realistic dirty CSVs into 
 - DBT modelling strategy
 
 ## ERD Diagram - Star Schema and Staging Models
-![alt text](data-dungeon-database-erd-1.png)
+![data-dungeon-database-erd](https://github.com/user-attachments/assets/7afa67b7-4e27-417c-bdad-33845a03300d)
+
 
 ## Learnings
 
