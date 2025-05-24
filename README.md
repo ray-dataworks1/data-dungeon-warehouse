@@ -18,6 +18,9 @@ A full-scale simulated analytics warehouse built from realistic dirty CSVs into 
 - Customer LTV and product performance metrics.
 - DBT modelling strategy
 
+## ERD Diagram - Star Schema and Staging Models
+![alt text](data-dungeon-database-erd-1.png)
+
 ## Learnings
 
 - Complex querying requires query architecture, not just syntax
