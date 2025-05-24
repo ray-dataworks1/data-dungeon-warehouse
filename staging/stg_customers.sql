@@ -30,6 +30,10 @@ SELECT
         WHEN LOWER(TRIM(CustTYPE)) IN ('retail') THEN 'retail'
         WHEN LOWER(TRIM(CustTYPE)) IN ('wholesale') THEN 'wholesale'
         ELSE NULL
-    END AS customer_type
-    
+    END AS customer_type,
+    CASE
+        WHEN LENGTH(SPLIT_PART(email_address, '@', 1)) < 3 THEN TRUE
+        WHEN email_address ~ '^[a-zA-Z]{2}[a-zA-Z]{2}@' THEN TRUE
+        ELSE FALSE
+    END AS email_review_needed
 FROM customers_dirty;
