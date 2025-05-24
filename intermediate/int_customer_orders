@@ -1,0 +1,15 @@
+CREATE VIEW int_customer_orders AS
+SELECT 
+    o.order_id,
+    o.customer_id,
+    c.customer_name,
+    o.product_code,
+    p.product_name,
+    o.qty,
+    o.order_date,
+    s.status_name AS order_status
+FROM 
+    fact_orders o
+JOIN dim_customers c ON o.customer_id = c.id
+JOIN dim_products p ON o.product_code = p.product_code
+JOIN dim_order_status s ON o.order_status_id = s.order_status_id;
