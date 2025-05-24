@@ -1,0 +1,51 @@
+custID,CustomerName,emailAddress,JoinDate,is_actv,CustTYPE
+1,Elizabeth Sharp,kevin60@snyder.net,19/03/2022,N,WHOLESALE
+2,Anna Davis,anthony90@hotmail.com,06/08/2022,Y,Retail
+3,Erin Bass MD,rrogers@hotmail.com,01/03/2024,Y,
+4,Kimberly Shaffer,desiree95@coleman-blanchard.com,11/11/2021,Y,retail
+5,Katherine Daniels,ronald79@chapman.com,01/01/2024,N,WHOLESALE
+6,Paula Watson,,27/06/2024,,
+7,Kimberly Schmitt,brian02@hotmail.com,26/02/2022,,wholesale
+8,Alexander Gonzales,vcobb@yahoo.com,27/10/2021,N,wholesale
+9,Tony Jimenez,kimberly36@hotmail.com,24/02/2020,Y,retail
+10,Veronica Jones,robert84@yahoo.com,13/01/2021,N,wholesale
+11,Stephen Paul,codyrussell@yahoo.com,08/09/2022,N,retail
+12,Robert Greer,michellesmith@barnes.com,31/03/2025,,wholesale
+13,Amy Rivers,,26/07/2023,Y,wholesale
+14,Mario Conley,,05/04/2023,,wholesale
+15,Dr. George Wilson Jr.,jesuswade@williams.com,19/03/2022,Y,wholesale
+16,Miss Tammie White,hinesallen@brown.com,22/11/2022,N,Retail
+17,Thomas Blake,zsoto@robertson.com,16/10/2022,Y,Retail
+18,John Quinn,jack20@webster-davis.net,30/01/2020,Y,Retail
+19,Eduardo Archer,haleyzachary@yahoo.com,09/07/2020,Y,
+20,Gail Thomas,rbishop@kline.com,26/11/2021,,Retail
+21,Brandy Bailey,jacobshannah@moran.biz,21/02/2021,,Retail
+22,Laurie Bates,hodgesrebecca@brown-scott.com,06/04/2020,,WHOLESALE
+23,Donna Delacruz,sydney38@yahoo.com,05/07/2024,,Retail
+24,Patrick House,fbenson@mcdonald.com,08/09/2024,N,Retail
+25,Connie Ford,leah50@horton.info,24/10/2024,,Retail
+26,Brian Hernandez,reginahernandez@hotmail.com,29/07/2022,Y,wholesale
+27,Danielle Fields,johngoodman@yahoo.com,18/12/2021,Y,WHOLESALE
+28,Gregory Hill,blake54@kerr.com,27/01/2022,N,retail
+29,Mr. Robert Leonard MD,,11/11/2022,N,Retail
+30,Crystal White,myerssteve@harper.biz,26/11/2020,,Retail
+31,Melissa Coffey,bowencourtney@ochoa.com,23/04/2020,,Retail
+32,Joann Wallace,kellyfisher@mcmillan.com,27/09/2021,N,
+33,Megan Peterson,hortonmichael@ross.com,22/07/2020,,retail
+34,Mr. William Sanchez DDS,dcohen@scott.info,27/03/2025,,
+35,Katherine Pittman,nhammond@moore.com,27/08/2022,N,wholesale
+36,Vicki Delacruz,samanthajensen@swanson.info,05/01/2025,N,WHOLESALE
+37,Samantha Allen,rmcgrath@moreno.com,29/11/2024,Y,retail
+38,Daniel Roth,ortegafrances@yahoo.com,21/09/2021,N,retail
+39,Tara Carter,rachelhunter@hart-lin.org,28/10/2024,,WHOLESALE
+40,Christina Cook,butlereric@gmail.com,24/02/2025,Y,
+41,Thomas Blake,michael00@young.com,30/09/2023,N,Retail
+42,Melanie Williams,mark90@bauer.net,22/09/2021,,retail
+43,Jennifer Baker,curtis26@serrano-reeves.net,05/03/2022,N,
+44,Keith Martin,arnolddaniel@hancock-bender.com,22/08/2022,,Retail
+45,Thomas Ayers,maloneconnie@gmail.com,24/03/2022,Y,
+46,Megan Freeman,imendez@bates-wilcox.biz,29/01/2021,,WHOLESALE
+47,Meghan Sparks,kathleenmoore@gmail.com,16/10/2021,Y,retail
+48,Mr. David Morris II,englishmichelle@juarez-clark.com,19/01/2023,,WHOLESALE
+49,Dana White,williamlarson@hotmail.com,09/10/2024,N,WHOLESALE
+50,Billy Thomas,xavier67@yahoo.com,08/10/2023,N,wholesale
